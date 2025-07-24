@@ -2,7 +2,7 @@
 
 **내용 정리 중**
 
-Content폴더는 용량이 큰 파일이 있어 따로 저장함 : https://drive.google.com/file/d/1rwsAcqm7QTq6JGFSmFHmrXH5FRz8h7tI/view?usp=sharing
+Content폴더는 용량이 큰 파일이 있어 Release에서 다운받아 주세요.
 
 - 핵 앤 슬래쉬, 전략 전술 장르 모작 프로젝트
 
