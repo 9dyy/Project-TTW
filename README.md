@@ -1,8 +1,6 @@
 # ProjectTTW
 
-**내용 정리 중**
-
-Content폴더는 용량이 큰 파일이 있어 Release에서 다운받아 주세요.
+Content폴더를 오른쪽의 Release에서 다운받아 주세요.
 
 - 핵 앤 슬래쉬, 전략 전술 장르 모작 프로젝트
 
@@ -10,9 +8,9 @@ Content폴더는 용량이 큰 파일이 있어 Release에서 다운받아 주�
 
 - 개발 엔진 : UnrealEngine 5.5
 
-- 게임 플레이 영상
-
 - 형상 관리 : TortoiseSVN
+
+- 게임 플레이 영상
 
   [![Prorect TTW 시연영상](http://img.youtube.com/vi/_vSz0Fo4x4Q/0.jpg)](https://youtu.be/_vSz0Fo4x4Q)
 
@@ -36,7 +34,6 @@ Content폴더는 용량이 큰 파일이 있어 Release에서 다운받아 주�
   - 타겟 락온 시스템
      - 근처 적 탐색 및 전환 기능 구현
      - 카메라와 이동 방향 연동 처리
-  
 - [kwon-h-chan](https://github.com/kwon-h-chan)
   - 스테이지 내 미니맵 구현
   - 스테이지 에셋 적용
