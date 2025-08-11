@@ -12,6 +12,8 @@ Content폴더는 용량이 큰 파일이 있어 Release에서 다운받아 주�
 
 - 게임 플레이 영상
 
+- 형상 관리 : TortoiseSVN
+
   [![Prorect TTW 시연영상](http://img.youtube.com/vi/_vSz0Fo4x4Q/0.jpg)](https://youtu.be/_vSz0Fo4x4Q)
 
 ### 담당한 작업
@@ -40,8 +42,11 @@ Content폴더는 용량이 큰 파일이 있어 Release에서 다운받아 주�
   - 스테이지 에셋 적용
 
 ### 사용한 에셋
-
+- NPC 최적화 플러그인 - [NPC Optimizator - automatic optimize NPC for you game](https://www.fab.com/ko/listings/8ecf84fa-0b4e-4e00-a696-638e1ee7b6ec)
+- 배경 - [Landscapes Pack](https://www.fab.com/ko/listings/c6a8fa58-84f1-4bb8-935d-a3467e9fe58d)
+- 주인공 캐릭터 - [Paragon: Kwang](https://www.fab.com/ko/listings/f4c67e92-b976-4b5b-ab9f-4c25b010f6f3)
+- 적 AI
+  - 스켈레탈 메시 - [Skeleton Guard (Modular)](https://www.fab.com/ko/listings/e6d40511-9e66-4fd9-be1c-7032099c0d75)
+  - 창 공격 애니메이션 - [Mega Spear Animation Pack](https://www.fab.com/ko/listings/a6f8de4a-b0a3-4b9b-8afc-bd6f1bf20bfa)
     
 
-    
-     
